@@ -56,7 +56,7 @@ To spend 365 days learning, breaking, and securing systems. I believe in **Learn
 
 I post daily updates about my journey on LinkedIn. Let's connect!
 
-*   **LinkedIn:** [Martin Gulo](https://www.linkedin.com/in/martin-gulo) *(Make sure to update this link if your URL is different!)*
+*   **LinkedIn:** [Martin Gulo](https://www.linkedin.com/in/martin-gulo) 
 
 
 ---
